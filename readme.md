@@ -591,5 +591,3 @@ Apesar do código ser funcional, aqui estão algumas sugestões de melhoria:
 - Uso de **CSS Grid** para layout.
 - **Atributos personalizados (`data-*`)** para manipulação eficiente no JavaScript.
 - Validações importantes, como evitar múltiplos pontos decimais e números inválidos.
-
-Se precisar de mais informações ou de ajuda com melhorias, posso ajudar! 😊
